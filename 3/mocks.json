@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Ivan",
+      "lastName": "Mitrofanov",
+      "marks": [
+        { "subject": "maths", "mark": 3 },
+        { "subject": "informathics", "mark": 4 },
+        { "subject": "english", "mark": 3 }
+      ]
+    },
+    {
+      "name": "Admin",
+      "lastName": "Adminov",
+      "marks": [
+        { "subject": "maths", "mark": 5 },
+        { "subject": "informathics", "mark": 5 },
+        { "subject": "english", "mark": 5 }
+      ]
+    }
+  ]
+}
